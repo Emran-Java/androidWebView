@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_33f15a7bc4c2cd1e5300e0b6df03e454780a9a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_dce13878cd89393f3af1ff4216433ec358e83597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_f66872f5393aabfe09400912c44e8fe1decc5924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_e2eafc3186ea2c2aaf49d11deaaab28e7f9ffca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_b6a430f2d661f5dfbb1f87491386d0500116edf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_8ac1d6bb37f45f9c44a0f4bf78c3feeea39af931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a2264f7656d14dc6bcd101255f7a13816ede1063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8786044da89894fbe301d3a8ba9d679f813e0956">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c60db9f18a16615df4e488e0d3d6acc0e0c6c093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f2a06299ddde3790a608f6e7047daf64613d3e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e15d4c50489bea6d9ecbc071f1db6926c5b06e8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_dd4bfb52178062cd7e6e6ae2f0d9f2d62da42f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_078603d876bb9486e0f12a50590d9d9b42e963a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.daimajia.numberprogressbar/library/1.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4196173ec5799ff211761f90874802789c6cc4ac">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.daimajia.numberprogressbar-library-1.2_878aa1fa506786607dfc56c360a6de92f41b06c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_df70b2f28a0f2e42ca86105431ece2c46404d223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/android_ecvironment/android_2.2/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_23360463a7086a6f7f6b4db424c3411419b3714f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b057eae04a66cc9bbca571ab51ddd84e28600142">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/instant-run_be264901bc1c068e62ef63535563fffd2e1191c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_98e176bbaa8f3543dc793421d9a49c5f3744294e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f29fc18a327d0d03246eff036a136f4fe4ba4a01.jar" />
+    </item>
+
+</items>
