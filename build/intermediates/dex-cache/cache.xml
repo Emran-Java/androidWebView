@@ -29,6 +29,24 @@
         <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_f66872f5393aabfe09400912c44e8fe1decc5924.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_bf88017904e75f70a46f2c2d3966a5ef235c6799/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_7b31202f66fca818753309920c610c9682dae789/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
@@ -38,6 +56,42 @@
         <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_e2eafc3186ea2c2aaf49d11deaaab28e7f9ffca5.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_5566e3f99c7430a158439062ae224349d684358d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e1331226bb6a9c21e33edc40e3814d41d9523645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_380d7d4af864bd571b4466074e3865ac1aa83077/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_ec18734611f08002487ad0379906140f82138423/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
         jumboMode="true"
@@ -45,6 +99,15 @@
         revision="25.0.0"
         sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
         <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_b6a430f2d661f5dfbb1f87491386d0500116edf3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_fef963202e0a2f34fc2e256a315e6f408e44456f/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -83,6 +146,15 @@
         <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f2a06299ddde3790a608f6e7047daf64613d3e5c.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_43500488ba7def353b682398cc664dfaab0f5196/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
@@ -99,6 +171,33 @@
         revision="25.0.0"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
         <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_dd4bfb52178062cd7e6e6ae2f0d9f2d62da42f4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e07c4cbdbcfefc34ed979094023a8961edc882d0">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1f857504cb4a7689bd0ad7045c0e921ba69c140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_3fa1ccd61ebdad3d83862909569ae6c3ecd744aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0b997bb2fa35b7171e17de92cbd8b14bffb55550/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -128,6 +227,33 @@
         <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_df70b2f28a0f2e42ca86105431ece2c46404d223.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_2be314be4b1dc77d398cf35caade13addd3aa2c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dcc6f937323db7e8caffe3c2e460e516319871f">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6dfd2c97724f70bf93a7be831759b7e2fc946fb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_0e8a1ca8fda5fe8806ce28a1ef7fd6e31960b624/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/emran/Desktop/MyDesk/android_ecvironment/android_2.2/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
         jumboMode="true"
@@ -146,6 +272,24 @@
         <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/instant-run_be264901bc1c068e62ef63535563fffd2e1191c1.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_48b13098184fcda3ce45732da9b86cee4845e167/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.daimajia.numberprogressbar/library/1.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4196173ec5799ff211761f90874802789c6cc4ac">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.numberprogressbar-library-1.2_962449cd31a177c7b970e02096c65d982b594cca/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
@@ -153,6 +297,24 @@
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/WebChatDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_98e176bbaa8f3543dc793421d9a49c5f3744294e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/android_ecvironment/android_2.2/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_23360463a7086a6f7f6b4db424c3411419b3714f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/emran/Desktop/MyDesk/androidProject2.2.2/androidWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e347ccecc7f202612023f22b850b2cdcd8e87ba1/classes.dex" />
     </item>
     <item
         is-multidex="false"

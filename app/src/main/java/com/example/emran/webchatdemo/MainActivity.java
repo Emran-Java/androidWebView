@@ -15,27 +15,15 @@ import android.webkit.WebViewClient;
 import com.daimajia.numberprogressbar.NumberProgressBar;
 
 public class MainActivity extends AppCompatActivity {
-
-    private Context mContext;
-    private Activity mActivity;
-
     // declare ui
     private WebView webView;
     private NumberProgressBar pBarWebView;
-    private String dataUrl = "https://static.revechat.com/widget/m/html/client.html?aid=18830&sid=defc8f3f-869b-4247-8b68-3a245e5f4bec&a=kabir&b=nurnabi@revesoft.com&c=8801811412833&h=aponjon.com.bd";
+    private String dataUrl = "https://www.youtube.com";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        mContext = this;
-        mActivity = this;
-
         initView();
-//        initVariable();
-//        initFunctionality();
-//        initListener();
     }
 
     private void initView() {
